@@ -1,4 +1,4 @@
-# TUTELAGE-A full-stack project
+# TUTELAGE-A Full-Stack Project
 A full-stack app that let's users connect with one another for tutoring purposes.
 
 Nowadays, there is a plethora of info out there, and it is readily available at our fingertips. The Internet and modern computers have allowed people to have consistent and easy access to massive amounts of information, unlike ever before. It's great to be able to look up resources that can help us solve our day-to-problems. However, Google searches and Youtube videos do have their limits. Sometimes, that human element of having somebody break things down and walk us through the solution is what we really need. But time and location can place restrictions on peoples' access and availability. Or at least they used to...
